@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31ea6720-45f1-4ab8-8c13-f64db0bbb43e": {
+      "ProjectGuid": "31ea6720-45f1-4ab8-8c13-f64db0bbb43e",
+      "DisplayName": "Task Management",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "10c4e0ac-ad9c-4065-a969-7744f09e3497": {
+      "ProjectGuid": "10c4e0ac-ad9c-4065-a969-7744f09e3497",
+      "DisplayName": "TestTasKManagement",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,40 @@
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\appsettings.Development.json
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\appsettings.json
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Task Management.exe
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Task Management.deps.json
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Task Management.runtimeconfig.json
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Task Management.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\ref\Task Management.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Task Management.pdb
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.csproj.AssemblyReference.cache
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.AssemblyInfoInputs.cache
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.AssemblyInfo.cs
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.csproj.CoreCompileInputs.cache
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.MvcApplicationPartsAssemblyInfo.cs
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\scopedcss\bundle\Task Management.styles.css
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.csproj.CopyComplete
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.dll
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\ref\Task Management.dll
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.pdb
+D:\WebAPI\Task Management\Task Management\obj\Debug\net6.0\Task Management.genruntimeconfig.cache
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\DataFile\TaskData.json
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Web.Razor.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\System.Web.Http.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Castle.Core.dll
+D:\WebAPI\Task Management\Task Management\bin\Debug\net6.0\Moq.dll
