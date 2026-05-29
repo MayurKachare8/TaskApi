@@ -30,21 +30,13 @@ Project Structure
 TaskApi/
 
 ├── Controllers/
-
 ├── Models/
-
 ├── Services/
-
 ├── Data/
-
 ├── DTOs/
-
 ├── TaskData.json
-
 ├── Program.cs
-
 ├── appsettings.json
-
 └── README.md
 
 ---
